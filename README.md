@@ -1,2 +1,2 @@
 # kngwyu.github.io
-web page
+>_<
