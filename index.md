@@ -1,5 +1,5 @@
 # Profile
-- Email: kanagawa-yuji968@g.ecc.u-tokyo.ac.jp / yuji.kngw.80s.revive@gmail.com
+- Email: kanagawa-yuji968 at g.ecc.u-tokyo.ac.jp or yuji.kngw.80s.revive at gmail.com
 - Eduation:
   - 2015-2018: Department of Interdisciplinary Sciences, College of Arts and Sciences, The University of Tokyo
   - 2019- : Department of General Systems Studies, Graduate School of Arts and Sciences, The University of Tokyo
@@ -9,9 +9,8 @@
 
 # Publications
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
-  - Paper: https://arxiv.org/abs/1904.08129
-  - Code: https://github.com/kngwyu/rogue-gym, https://github.com/kngwyu/rogue-gym-agents-cog19
-  - Aceepeted to IEEE Conference on Games 2019
+    - Aceepeted to IEEE Conference on Games 2019
+  - [Paper](https://arxiv.org/abs/1904.08129), [Environment code](https://github.com/kngwyu/rogue-gym), [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
 
 
 # Links
@@ -19,6 +18,6 @@
 
 [Game Programming Seminar](https://gps.tanaka.ecc.u-tokyo.ac.jp/)
 
-[Japanese Blog](https://kngwyu.gitlab.io/)
+[ブログっぽいもの](https://kngwyu.gitlab.io/)
 
 [東大SF研](http://www.utsf.org/)
