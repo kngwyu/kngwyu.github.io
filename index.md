@@ -18,6 +18,8 @@
 
 [Game Programming Seminar](https://gps.tanaka.ecc.u-tokyo.ac.jp/)
 
-[ブログっぽいもの](https://kngwyu.gitlab.io/)
+[ブログ的な](https://kngwyu.gitlab.io/)
+
+[Rustオンラインもくもく会](https://rust-online.connpass.com/event/)
 
 [東大SF研](http://www.utsf.org/)
