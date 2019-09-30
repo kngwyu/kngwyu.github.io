@@ -1,5 +1,7 @@
-name: Yuji Kanagawa
+title: Yuji Kanagawa
 description: Welcome to my cheap web page..
 theme: jekyll-theme-minimal
 
-exclude: {LICENSE, README.md}
+exclude:
+  - LICENSE
+  - README.md
