@@ -1,3 +1,7 @@
+> 'But bravery isn't important now'.
+
+from *EMPIRE OF THE SUN* by J.G.BALLARD
+
 # Profile
 - Email: kanagawa-yuji968 at g.ecc.u-tokyo.ac.jp or yuji.kngw.80s.revive at gmail.com
 - Eduation:
@@ -9,7 +13,7 @@
 
 # Publications
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
-    - Aceepeted to IEEE Conference on Games 2019
+  - Aceepeted to IEEE Conference on Games 2019
   - [Paper](https://arxiv.org/abs/1904.08129), [Environment code](https://github.com/kngwyu/rogue-gym), [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
 
 
