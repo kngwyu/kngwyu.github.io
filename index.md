@@ -2,14 +2,16 @@
 
 from *EMPIRE OF THE SUN* by J.G.BALLARD
 
-# Profile
-- Email: kanagawa-yuji968 at g.ecc.u-tokyo.ac.jp or yuji.kngw.80s.revive at gmail.com
-- Eduation:
-  - 2015-2018: Department of Interdisciplinary Sciences, College of Arts and Sciences, The University of Tokyo
-  - 2019- : Department of General Systems Studies, Graduate School of Arts and Sciences, The University of Tokyo
-- Research interests:
-  - Reinforcement Learning
-  - Robust and practical AI in games
+# Affliation
+- Master course student at the Department of General Systems Studies, The University of Tokyo
+- Email: kanagawa-yuji968 [at] g.ecc.u-tokyo.ac.jp, yuji.kngw.80s.revive [at] gmail.com
+
+# Biography
+- Aug.2019: Interned at Preffered Networks, Tokyo
+- Mar.2018: Received B.S. degree from College of Arts and Science, The University of Tokyo
+
+# Research interests
+Reinforcement Learning, Robust and practical AI in games
 
 # Publications
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
