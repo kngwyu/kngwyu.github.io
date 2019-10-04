@@ -11,7 +11,7 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 - Mar.2018: Received B.S. degree from College of Arts and Science, The University of Tokyo
 
 # Research interests
-Reinforcement Learning, Robust and practical AI in games
+Reinforcement Learning, AI for Games, and *anything that moves*
 
 # Publications
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
