@@ -4,7 +4,7 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 
 # Affliation
 - Master course student at the Department of General Systems Studies, The University of Tokyo
-- Email: kanagawa-yuji968 [at] g.ecc.u-tokyo.ac.jp, yuji.kngw.80s.revive [at] gmail.com
+- Email: kngwyu [at] game.u-tokyo.ac.jp, yuji.kngw.80s.revive [at] gmail.com
 
 # Biography
 - Aug.2019: Interned at Preffered Networks, Tokyo
