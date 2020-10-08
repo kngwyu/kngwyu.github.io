@@ -14,6 +14,10 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 Reinforcement Learning, AI for Games, and *anything that moves*
 
 # Publications
+- Diverse Exploration via InfoMax Options
+  - Preprint. Under review.
+  - [Paper](https://arxiv.org/abs/2010.02756), [Code](https://github.com/kngwyu/infomax-option-critic)
+
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
   - Aceepeted to IEEE Conference on Games 2019
   - [Paper](https://arxiv.org/abs/1904.08129), [Environment code](https://github.com/kngwyu/rogue-gym), [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
