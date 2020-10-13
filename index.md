@@ -11,7 +11,13 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 - Mar.2018: Received B.S. degree from College of Arts and Science, The University of Tokyo
 
 # Research interests
-Reinforcement Learning, AI for Games, and *anything that moves*
+My research focuses on reinforcement learning (RL), a sub-area of
+artificial intelligence that is centered on training agents that
+behaves nicely in stochastic environments.
+Particularly, I'm interested in creating *life-long* agents that can
+abstract things and adapt to environmental changes quickly.
+So far, I have been published a few papers about **generalization**
+and **abstraction** in RL.
 
 # Publications
 - Diverse Exploration via InfoMax Options
