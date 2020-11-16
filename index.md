@@ -21,7 +21,8 @@ and **abstraction** in RL.
 
 # Publications
 - Diverse Exploration via InfoMax Options
-  - Preprint. Under review.
+  - Preprint.
+  - To appear in [NeurIPS DeepRL Workshop 2020](https://sites.google.com/view/deep-rl-workshop-neurips2020/)
   - [Paper](https://arxiv.org/abs/2010.02756), [Code](https://github.com/kngwyu/infomax-option-critic)
 
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
