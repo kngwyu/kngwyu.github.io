@@ -3,8 +3,8 @@
 from *EMPIRE OF THE SUN* by J.G.BALLARD
 
 # Affliation
-- Master course student at the Department of General Systems Studies, The University of Tokyo
-- Email: kngwyu [at] game.u-tokyo.ac.jp, yuji.kngw.80s.revive [at] gmail.com
+- 1st year Ph.D. student at [OIST](oist.jp)
+- Email: yuji.kanagawa [at] oist.jp, yuji.kngw.80s.revive [at] gmail.com
 
 # Education
 - 2019 - 2021: Department of General Systems Studies, The University of Tokyo (M.S. degree)
