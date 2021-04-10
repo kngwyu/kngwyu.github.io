@@ -3,7 +3,7 @@
 from *EMPIRE OF THE SUN* by J.G.BALLARD
 
 # Affliation
-- 1st year Ph.D. student at [OIST](oist.jp)
+- 1st year Ph.D. student at [OIST](https://www.oist.jp/)
 - Email: yuji.kanagawa [at] oist.jp, yuji.kngw.80s.revive [at] gmail.com
 
 # Education
@@ -15,12 +15,12 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 - 2019: Interned at [Preffered Networks](https://www.preferred.jp/), Tokyo
 
 # Research interests
-My research focuses on reinforcement learning (RL), a sub-area of
-artificial intelligence on agents that behaves nicely in complex environments.
-Mainly, I am interested in learning behaviors by some more natural drivers
-than hand-crafted rewards, such as curiosity, robustness, and communication.
-So far, I have co-authored a few papers about generalization
-and abstraction in RL.
+So far, my research has focused on reinforcement learning (RL), a
+sub-area of artificial intelligence on agents that behaves nicely in
+complex environments.
+Particulary, I am interested in reframing the behavior learning by
+some more natural drivers than hand-crafted rewards in RL, such as
+survival, competition, and communication.
 
 # Publications
 - Diverse Exploration via InfoMax Options
@@ -33,16 +33,17 @@ and abstraction in RL.
   - [Paper](https://arxiv.org/abs/1904.08129), [Environment code](https://github.com/kngwyu/rogue-gym), [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
 
 # OSS Projects
-I am a fan of OSS culture since I met the [Rust](https://www.rust-lang.org/) community
-during my undergraduate.
-I have continuosly contributed to some OSS projects, although I am not very active now.
+I am a fan of open sources and open communities since I met the
+[Rust](https://www.rust-lang.org/) community during my undergraduate.
+I have continuosly contributed to some OSS projects, although I am not
+very active now.
 I received
 [Google Open Source Peer Bonus](https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html)
 for my contributions to [PyO3](https://github.com/PyO3/pyo3).
 
 See my Github account for more.
 
-# SNS accounts
+# Some accounts
 - Github: [kngwyu](https://github.com/kngwyu)
 - Gitlab: [kngwyu](https://gitlab.com/kngwyu)
 - Twitter: [kngwyu](https://twitter.com/kngwyu)
