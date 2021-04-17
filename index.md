@@ -18,9 +18,11 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 So far, my research has focused on reinforcement learning (RL), a
 sub-area of artificial intelligence on agents that behaves nicely in
 complex environments.
-Particulary, I am interested in reframing the behavior learning by
-some more natural drivers than hand-crafted rewards in RL, such as
-survival, competition, and communication.
+During my undergraduate and master's study, I co-authored two papers
+about generalization and skill acquisition in RL.
+Currently, I'm interested in, broader class of behavior
+learning in AI research, including evolutional/developmental robotics
+and multi agent interaction.
 
 # Publications
 - Diverse Exploration via InfoMax Options
