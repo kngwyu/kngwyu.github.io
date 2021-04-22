@@ -16,13 +16,13 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 
 # Research interests
 So far, my research has focused on reinforcement learning (RL), a
-sub-area of artificial intelligence on agents that behaves nicely in
-complex environments.
+sub-area of artificial intelligence on agents that try to maximize
+some utility (called *reward function*) in complex environments.
 During my undergraduate and master's study, I co-authored two papers
 about generalization and skill acquisition in RL.
-Currently, I'm interested in, broader class of behavior
-learning in AI research, including evolutional/developmental robotics
-and multi agent interaction.
+I'm also interested in broader research areas where agent-based
+approaches are useful. Examples include evolutionary robotics and
+multi-agent interaction.
 
 # Publications
 - Diverse Exploration via InfoMax Options
@@ -55,7 +55,9 @@ See my Github account for more.
 
 [Game Programming Seminar](https://gps.tanaka.ecc.u-tokyo.ac.jp/)
 
-[Blog(Japanese)](https://kngwyu.gitlab.io/)
+[Blog (written in Japanese)](https://kngwyu.gitlab.io/)
+
+[(Hopefully) Research Blog](https://kngwyu.github.io/rlog)
 
 [Rustオンラインもくもく会](https://rust-online.connpass.com/event/)
 
