@@ -15,19 +15,16 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 - 2019: Interned at [Preffered Networks](https://www.preferred.jp/), Tokyo
 
 # Research interests
-So far, my research has focused on reinforcement learning (RL), a
-sub-area of artificial intelligence on agents that try to maximize
-some utility (called *reward function*) in complex environments.
-During my undergraduate and master's study, I co-authored two papers
-about generalization and skill acquisition in RL.
-I'm also interested in broader research areas where agent-based
-approaches are useful. Examples include evolutionary robotics and
-multi-agent interaction.
+With my Ph.D. study, I aim to investigate the emergence of agency and sociality from environmental and mutual interactions. I'm now preparing an evolutionary robotics approach for this purpose.
+
+During my undergraduate and master's study, my research has focused on reinforcement learning (RL), a sub-area of artificial intelligence on agents that try to maximize some utility (called *reward*) in complex environments.
+I authored two papers about generalization and reward-free skill acquisition in RL.
 
 # Publications
 - Diverse Exploration via InfoMax Options
   - Preprint.
-  - To appear in [NeurIPS DeepRL Workshop 2020](https://sites.google.com/view/deep-rl-workshop-neurips2020/)
+  - To appear in [NeurIPS DeepRL Workshop 2020](https://sites
+  .google.com/view/deep-rl-workshop-neurips2020/)
   - [Paper](https://arxiv.org/abs/2010.02756), [Code](https://github.com/kngwyu/infomax-option-critic)
 
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
