@@ -31,6 +31,9 @@ I authored two papers about generalization and reward-free skill acquisition in 
   - Aceepeted to IEEE Conference on Games 2019
   - [Paper](https://arxiv.org/abs/1904.08129), [Environment code](https://github.com/kngwyu/rogue-gym), [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
 
+# Awards
+- 2021: Ichiko Memorial Award (一高記念賞), Graduate School of Arts and Sciences, University of Tokyo (summa cum laude)
+
 # OSS Projects
 I am a fan of open sources and open communities since I met the
 [Rust](https://www.rust-lang.org/) community during my undergraduate.
