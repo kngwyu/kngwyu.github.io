@@ -8,6 +8,7 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 
 # Education
 - 2019 - 2021: Department of General Systems Studies, The University of Tokyo (M.S. degree)
+  - I received Ichiko Memorial Award (Dean's Award, 一高記念賞 in Japanese)
 - 2017 - 2019: College of Arts and Science, The University of Tokyo (B.S. degree)
 - 2015 - 2017: Human Sciences III, The University of Tokyo
 
@@ -30,9 +31,6 @@ I authored two papers about generalization and reward-free skill acquisition in 
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
   - Aceepeted to IEEE Conference on Games 2019
   - [Paper](https://arxiv.org/abs/1904.08129), [Environment code](https://github.com/kngwyu/rogue-gym), [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
-
-# Awards
-- 2021: Ichiko Memorial Award (一高記念賞), Graduate School of Arts and Sciences, University of Tokyo (Dean's Award)
 
 # OSS Projects
 I am a fan of open sources and open communities since I met the
