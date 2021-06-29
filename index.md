@@ -8,11 +8,11 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 
 # Education
 - 2019 - 2021: Department of General Systems Studies, The University of Tokyo (M.S. degree)
-  - I received Ichiko Memorial Award (Dean's Award, 一高記念賞 in Japanese)
+  - I received Ichiko Memorial Award (一高記念賞/Dean's Award)
 - 2017 - 2019: College of Arts and Science, The University of Tokyo (B.S. degree)
 - 2015 - 2017: Human Sciences III, The University of Tokyo
 
-# Job Experience
+# Job Experiences
 - 2019: Interned at [Preffered Networks](https://www.preferred.jp/), Tokyo
 
 # Research interests
@@ -23,13 +23,12 @@ I authored two papers about generalization and reward-free skill acquisition in 
 
 # Publications
 - Diverse Exploration via InfoMax Options
-  - Preprint.
-  - To appear in [NeurIPS DeepRL Workshop 2020](https://sites
-  .google.com/view/deep-rl-workshop-neurips2020/)
+  - Preprint
+  - Presented at [NeurIPS DeepRL Workshop 2020](https://sites.google.com/view/deep-rl-workshop-neurips2020/)
   - [Paper](https://arxiv.org/abs/2010.02756), [Code](https://github.com/kngwyu/infomax-option-critic)
 
 - Rogue-Gym: A New Challenge for Generalization in Reinforcement Learning
-  - Aceepeted to IEEE Conference on Games 2019
+  - Presented at IEEE Conference on Games 2019
   - [Paper](https://arxiv.org/abs/1904.08129), [Environment code](https://github.com/kngwyu/rogue-gym), [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
 
 # OSS Projects
