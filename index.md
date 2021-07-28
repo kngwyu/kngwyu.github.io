@@ -18,7 +18,7 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 # Research interests
 I'm interested in how environments have shaped us. I'm now preparing an evolutionary robotics approach for this purpose.
 
-During my undergraduate and master's study, my research has focused on reinforcement learning (RL), a sub-area of artificial intelligence on agents that try to maximize some utility (called *reward*) in complex environments.
+During my undergraduate and master's study, my research focused on reinforcement learning (RL), a sub-area of artificial intelligence on agents that try to maximize some utility (called *reward*) in complex environments.
 I authored two papers about generalization and reward-free skill acquisition in RL.
 
 # Publications
