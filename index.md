@@ -16,7 +16,7 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 - 2019: Interned at [Preffered Networks](https://www.preferred.jp/), Tokyo
 
 # Research interests
-With my Ph.D. study, I aim to investigate the emergence of agency and sociality from environmental and mutual interactions. I'm now preparing an evolutionary robotics approach for this purpose.
+I'm interested in how environments have shaped us. I'm now preparing an evolutionary robotics approach for this purpose.
 
 During my undergraduate and master's study, my research has focused on reinforcement learning (RL), a sub-area of artificial intelligence on agents that try to maximize some utility (called *reward*) in complex environments.
 I authored two papers about generalization and reward-free skill acquisition in RL.
