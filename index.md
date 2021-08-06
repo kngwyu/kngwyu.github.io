@@ -7,7 +7,8 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 - Email: yuji.kanagawa [at] oist.jp, yuji.kngw.80s.revive [at] gmail.com
 
 # Education
-- 2019 - 2021: Department of General Systems Studies, The University of Tokyo (M.S. degree) with Ichiko Memorial Award (一高記念賞/Dean's Award)
+- 2019 - 2021: Department of General Systems Studies, The University of Tokyo (M.S. degree)
+  - Recieved Ichiko Memorial Award (一高記念賞/Dean's Award)
 - 2017 - 2019: College of Arts and Science, The University of Tokyo (B.S. degree)
 - 2015 - 2017: Human Sciences III, The University of Tokyo
 
@@ -48,7 +49,7 @@ See my Github account for more.
 
 # Kanji
 
-金川裕司
+金川 裕司 (かながわ ゆうじ)
 
 # Links
 [Kaneko Lab](http://game.c.u-tokyo.ac.jp/)
