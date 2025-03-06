@@ -14,7 +14,7 @@ from *EMPIRE OF THE SUN* by J.G.BALLARD
 
 # Job Experiences
 - 2023: Interned at stealth neurotech startup
-- 2019: Interned at [Preffered Networks](https://www.preferred.jp/), Tokyo
+- 2019: Interned at [Preferred Networks](https://www.preferred.jp/), Tokyo
 
 # Research interests
 I'm interested in the evolutionary simulation of virtual agents to get insights of real **brain evolution**.
