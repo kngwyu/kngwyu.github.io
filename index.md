@@ -41,6 +41,9 @@ I did some deep reinforcement learning stuff in my masters and undergrad.
   - [Environment code](https://github.com/kngwyu/rogue-gym)
   - [Experiment code](https://github.com/kngwyu/rogue-gym-agents-cog19)
 
+# Sub project?
+- For evolutionary simulation with many agents, I made 2D physics simulator that works on GPU. Check [phyjax2d](https://github.com/kngwyu/phyjax2d) repo.
+
 # OSS Projects
 I am a fan of open sources and open communities since I met the [Rust](https://www.rust-lang.org/) community during my undergraduate.
 I have continuously contributed to some OSS projects, although I am not very active now.
